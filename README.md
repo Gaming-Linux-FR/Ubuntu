@@ -1,6 +1,7 @@
 ## Table des matières
-1. [Création d'une clé usb bootable](#1-installation-et-configuration-initiale)
-2. [Démarrage sur la clé](#2-installation-des-pilotes-nvidia)
+---
+1. [Création d'une clé usb bootable](#1-Création d'une clé usb bootable)
+2. [Démarrage sur la clé](#2-Démarrer sur la clé usb)
 3. [Installation d'ubuntu](#3-mise-à-jour-du-système-et-choix-des-miroirs)
 4. [Installation de steam](#4-modification-du-paramètre-vmmax_map_count)
 5. [Installation de Heroic (Epic Games + GoG + Amazon Games)](#5-installation-de-logiciels-pour-gaming)
@@ -10,3 +11,9 @@
 9. [Les snaps, bonnes pratiques]
 10.[Installation de Goverlay]
    
+### 1-Création d'une clé usb bootable
+
+Pour créer une clé usb qui va accueillir Ubuntu, il vous faudra donc une clé usb ! de 8 Go ou + et télécharger l'outil BalenaEtcher, disponible sur Windows, Mac & Linux. 
+Cet outil va vous permettre en quelques clics de transformer votre clé usb de stockage en un support d'installation Ubuntu.
+
+### 2-Démarrer sur la clé usb
