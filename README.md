@@ -18,5 +18,7 @@
 Pour créer une clé usb qui va accueillir Ubuntu, il vous faudra donc une clé usb ! de 8 Go ou + et télécharger l'outil BalenaEtcher, disponible sur Windows, Mac & Linux. 
 Cet outil va vous permettre en quelques clics de transformer votre clé usb de stockage en un support d'installation Ubuntu.
 
+Il vous faudra également télécharger Ubuntu à cette adresse : [Lien vers le téléchargement de Ubuntu](https://ubuntu.com/download/desktop)
+
 ### Démarrer-sur-la-clé-usb
 
