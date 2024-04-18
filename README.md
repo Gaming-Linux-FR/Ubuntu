@@ -31,7 +31,7 @@ Ci-dessous quelques différences recensées :
 
 A noter que d'après Ubuntu, 95% des users choisissent Ubuntu LTS, ce qui a pour effet, que LTS a globalement une meilleure compatibilité avec les applications tiers. 
 
-Il vous faudra également télécharger Ubuntu à cette adresse : [Lien vers le téléchargement de Ubuntu](https://ubuntu.com/download/desktop)
+Une fois, votre choix fait, pour télécharger Ubuntu, c'est à cette adresse : [Lien vers le téléchargement de Ubuntu](https://ubuntu.com/download/desktop)
 
 ### Création-du-support-usb
 
