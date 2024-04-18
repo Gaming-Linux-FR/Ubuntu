@@ -4,13 +4,13 @@
 2. [Démarrage sur la clé](#Démarrer-sur-la-clé-usb)
 3. [Installation d'ubuntu]()
 4. [Installation de steam]()
-5. [Installation de Heroic ()
-6. [Installation de Lutris ()
+5. [Installation de Heroic]()
+6. [Installation de Lutris]()
 7. [Installation d'OBS]()
-8. [Installation de KDEnlive]
-9. [Les snaps, bonnes pratiques]
-10.[Installation de Goverlay]
-
+8. [Installation de KDEnlive]()
+9. [Les snaps, bonnes pratiques]()
+10. [Installation de Goverlay]()
+   
 # Installation Ubuntu de A à Z
    
 ### Création-du-support-usb
