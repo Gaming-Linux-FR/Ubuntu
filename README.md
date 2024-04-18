@@ -35,7 +35,7 @@ Une fois, votre choix fait, pour télécharger Ubuntu, c'est à cette adresse : 
 
 ### Création-du-support-usb
 
-Pour créer une clé usb qui va accueillir Ubuntu, il vous faudra donc une clé usb ! de 8 Go ou + et télécharger l'outil BalenaEtcher, disponible sur Windows, Mac & Linux. 
+Pour créer une clé usb qui va accueillir Ubuntu, il vous faudra donc une clé usb ! de 8 Go ou + et télécharger l'outil [BalenaEtcher](https://etcher.balena.io/#download-etcher), disponible sur Windows, Mac & Linux. 
 Cet outil va vous permettre en quelques clics de transformer votre clé usb de stockage en un support d'installation Ubuntu.
 
 ### Démarrer-sur-la-clé-usb
