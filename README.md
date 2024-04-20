@@ -38,5 +38,30 @@ Une fois, votre choix fait, pour télécharger Ubuntu, c'est à cette adresse : 
 Pour créer une clé usb qui va accueillir Ubuntu, il vous faudra donc une clé usb ! de 8 Go ou + et télécharger l'outil [BalenaEtcher](https://etcher.balena.io/#download-etcher), disponible sur Windows, Mac & Linux. 
 Cet outil va vous permettre en quelques clics de transformer votre clé usb de stockage en un support d'installation Ubuntu.
 
+Une fois Balena Etcher lancé vous tomberez sur cette fenêtre.
+
+![BalenaEtcher_1](https://github.com/DidicGLF/Ubuntu/assets/163353265/83b23cc2-55d2-4ea7-9b20-eb3b89960155)
+
+Cliquez ensuite sur "Flash from file" et sélectionner l'image ISO que vous avez téléchargé un peu plus tôt.
+
+Le logiciel vous demande ensuite de choisir sur quel support vous souhaitez copier cette image.
+
+![BalenaEtcher_2](https://github.com/DidicGLF/Ubuntu/assets/163353265/08d9e033-ff13-47c7-b0c6-3c93a5c7cf5e)
+
+Cliquez sur "Select target".
+
+![BalenaEtcher_3](https://github.com/DidicGLF/Ubuntu/assets/163353265/54764bf0-4709-47ad-acc3-00d3d4b15b25)
+
+Sur cette fenêtre, Balena Etcher vous invite à choisir le support, ici une clé de 16gb.
+Une fois la case cochée appuyez sur "Select 1"
+
+![BalenaEtcher_4](https://github.com/DidicGLF/Ubuntu/assets/163353265/e15fc296-c742-45b3-8643-e6d147da50d4)
+
+Cliquez sur Flash pour lancer la procédure. La durée de l'opération dépendra de la vitesse de votre support USB
+
+![BalenaEtcher_5](https://github.com/DidicGLF/Ubuntu/assets/163353265/053198ec-84ef-4216-8666-483eb48dde46)
+
+Voilà le support USB est prêt nous pouvons passer à l'étape suivante.
+
 ### Démarrer-sur-la-clé-usb
 
